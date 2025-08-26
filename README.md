@@ -2,6 +2,8 @@
 
 Bitcoin payment plugin for HikaShop (open source e-commerce solution for Joomla).
 
+This plugin is deprecated and not supported. It can only work on Joomla 1.5 and 2.5 with HikaShop 1.x and 2.x.
+
 ## Initial development
 Extreme_one ( dev@707developement.com ) - http://www.hikashop.com/forum/2-general-talk-about-hikashop/80004-bitcoin-plugin.html
 
